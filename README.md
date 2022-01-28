@@ -1,4 +1,4 @@
-# Unmanned-Air-Vehicles-UAV-Simulator-for-Placement-and-Power-Allocation-
+# Unmanned-Air-Vehicles-UAV-Simulator-for-Placement-and-Power-Allocation
 
 This is a code package is related to the follow scientific article:
 

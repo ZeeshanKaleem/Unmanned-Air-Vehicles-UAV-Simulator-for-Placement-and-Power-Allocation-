@@ -2,7 +2,7 @@
 
 This is a code package is related to the follow scientific article:
 
-Zeeshan Kaleem et. al.,, “Prioritized User-Association for Sum-Rate Maximization inUAV-Assisted Emergency Communication: A ReinforcementLearning Approach,” _Drones_, vol. xx, no. xx, pp. xx, January 2022.
+Zeeshan Kaleem et. al.,, “Prioritized User-Association for Sum-Rate Maximization in UAV-Assisted Emergency Communication: A ReinforcementLearning Approach,” _Drones_, vol. xx, no. xx, pp. xx, January 2022.
 
 This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
 
